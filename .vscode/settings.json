@@ -1,0 +1,8 @@
+{
+    "python-envs.workspaceSearchPaths": [
+        ".venv",
+        "*/.venv",
+        "source system/bin/activate"
+    ],
+    "python.terminal.useEnvFile": true
+}
